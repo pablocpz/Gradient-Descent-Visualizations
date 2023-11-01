@@ -6,6 +6,6 @@
     <title>GitHub Image</title>
 </head>
 <body>
-    <img src="https://raw.githubusercontent.com/pablocpz/Gradient-Descent-Visualizations/main/1D%20simulation.ipynb" alt="1D Simulation Image">
+    <img src="gradient1D.gif" alt="1D Simulation Image">
 </body>
 </html>
