@@ -1,4 +1,4 @@
-# 1D and 2D Visualizations of Gradient Descent in Algorithm in Python (examples below)
+# 1D & 2D Visualizations of Gradient Descent in Algorithm in Python (examples below)
 - See `1D visualization.ipynb` for 1D
 
 <img src="gradient1D.gif" alt="1D Simulation Image">
