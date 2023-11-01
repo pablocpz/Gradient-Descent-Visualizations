@@ -6,3 +6,7 @@
     <img src="gradient1D.gif" alt="1D Simulation Image">
 </body>
 </html>
+- For 2D, see `2D visualization.ipynb`
+<body>
+    <img src="gradient2D-viz.gif" alt="1D Simulation Image">
+</body>
